@@ -1,5 +1,5 @@
 # Demo Restaurant Menu Project
-A restaurant needs to design a database for its menu. We have design a simple SQL database and connect it with C++ source codes in order to implement a demo for the project. In order to run this project, Dev C++ is recommended.  
+A restaurant needs to design a database for its menu. We have design a simple SQL database and connect it with C++ source codes in order to implement a demo for the project. In order to run this project, Dev C++ IDE and MySQL is recommended.  
 #
 The requirements are:
 + There are multiple categories of dishes (desert, main dish, snack, ....)
